@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4.1\Lab 6.4.1\Source.cpp(155,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4.1\Lab 6.4.1\Source.cpp(156,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4.1\Lab 6.4.1\Source.cpp(157,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4.1\Lab 6.4.1\Source.cpp(157,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4.1\Lab 6.4.1\Source.cpp(157,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4.1\Lab 6.4.1\Source.cpp(50): warning C4715: 'poshuk1min': not all control paths return a value
+C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4.1\Lab 6.4.1\Source.cpp(62): warning C4715: 'poshuk2min': not all control paths return a value
+  Lab 6.4.1.vcxproj -> C:\Users\lkuru\OneDrive\Робочий стіл\Алгоритимізація\6.1-4\АП_ІК-11_Курило_ЛР-06.4.docxv\Lab 6.4.1\x64\Debug\Lab 6.4.1.exe
